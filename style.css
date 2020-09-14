@@ -1,5 +1,6 @@
 main {
-text-align: left;
+display:flex;
+justify-content: left;
 background-color: #eb4934;
 }
 
