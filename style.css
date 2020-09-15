@@ -23,3 +23,9 @@ footer {
 background-color: #702550;
 color: white;
 }
+
+#main-footer {
+padding-top: 60px;
+padding-bottom: 60px;
+border-bottom: solid 20px grey;
+}
