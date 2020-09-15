@@ -7,7 +7,7 @@ head {
 text-align: center;
 }
 
-header {
+.main-header {
 background-color: #0D2B2E;
 color: white;
 padding-top: 60px;
@@ -26,7 +26,7 @@ font-size: 20px;
 color: white;
 }
  
-footer {
+.main-footer {
 background-color: #702550;
 color: white;
 }
