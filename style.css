@@ -10,6 +10,9 @@ text-align: center;
 .main-header {
 background-color: #320d3e;
 color: white;
+}
+
+.padding-border {
 padding-top: 60px;
 padding-bottom: 60px;
 border: solid 20px lightgrey;
@@ -19,9 +22,6 @@ main {
 text-align: left;
 background-color: #f162ff;
 color: white;
-padding-top: 60px;
-padding-bottom: 60px;
-border: solid 20px lightgrey;
 }
 
 p {
@@ -35,7 +35,5 @@ color: white;
 }
 
 #main-footer {
-padding-top: 60px;
-padding-bottom: 60px;
-border: solid 20px lightgrey;
+
 }
