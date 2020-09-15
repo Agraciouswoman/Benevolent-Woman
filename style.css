@@ -12,13 +12,16 @@ background-color: #0D2B2E;
 color: white;
 padding-top: 60px;
 padding-bottom: 60px;
-border-top: solid 20px grey;
+border: solid 20px grey;
 }
 
 main {
 text-align: left;
 background-color: #31BCCA;
 color: white;
+padding-top: 60px;
+padding-bottom: 60px;
+border: solid 20px grey;
 }
 
 p {
@@ -34,5 +37,5 @@ color: white;
 #main-footer {
 padding-top: 60px;
 padding-bottom: 60px;
-border-bottom: solid 20px grey;
+border: solid 20px grey;
 }
