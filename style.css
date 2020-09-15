@@ -17,6 +17,9 @@ color: white;
 header {
 background-color: #0D2B2E;
 color: white;
+padding-top: 60px;
+padding-bottom: 60px;
+border-top: solid 20px grey;
 }
 
 footer {
