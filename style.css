@@ -6,13 +6,15 @@ padding: 0;
 main {
 text-align: left;
 background-color: #63D521;
+color: white;
 }
 
 p {
 font-size: 20px;
-text: white;
+color: white;
 }
  
 header {
 background-color: #D93A13;
+color: white;
 }
